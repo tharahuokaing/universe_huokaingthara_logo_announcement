@@ -1,6 +1,4 @@
 # universe_huokaingthara_logo_announcement
-ខាងក្រោមនេះគឺជាឯកសារ **`README.md`** សម្រាប់ដាក់នៅលើ **GitHub Repository** ផ្លូវការ ដើម្បីជូនដំណឹង (Announcement) អំពីការប្តូរឡូហ្គោថ្មី ការថ្លែងអំណរគុណដល់អ្នកគាំទ្រ និងដំណឹងនៃការបើកដំណើរការផលិតកម្ម **UNIVERSE HUOKAING THARA** ក្នុងពេលឆាប់ៗខាងមុខនេះ៖
-
 # 📢 UNIVERSE HUOKAING THARA - Official Brand Announcement & Repository Update
 
 > Official announcement regarding our brand logo transition, production house opening, and platform architecture updates under UNIVERSE HUOKAING THARA Group.
